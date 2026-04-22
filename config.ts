@@ -34,7 +34,7 @@ import type { LangCode } from "@/features/translator/types";
 /* │                                                              │ */
 /* │           ↓  ЕДИНСТВЕННАЯ СТРОКА ДЛЯ ИЗМЕНЕНИЯ  ↓            │ */
 /* │                                                              │ */
-export const PARTNER_LANG: LangCode = "DE";
+export const PARTNER_LANG: LangCode = "PL";
 /* │                                                              │ */
 /* │           ↑  МЕНЯЕШЬ ТОЛЬКО ЗДЕСЬ                ↑            │ */
 /* │                                                              │ */
